@@ -1,0 +1,3 @@
+# Advent of Code 2025
+
+This year, there are only 12 puzzles to solve. Guess I will run out of time and depth by day 6 or 7. We shall see...
