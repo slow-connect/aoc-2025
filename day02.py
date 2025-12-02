@@ -22,6 +22,7 @@ for intervall in id_range:
 # print(res_list)
 print(cnt)
 
+# part2
 cnt = 0
 res_list = []
 for intervall in id_range:
