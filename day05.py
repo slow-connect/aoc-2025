@@ -3,17 +3,17 @@ import portion as P
 import aoc
 
 input = aoc.get_lst(5)[:-1]
-input = """3-5
-10-14
-16-20
-12-18
+# input = """3-5
+# 10-14
+# 16-20
+# 12-18
 
-1
-5
-8
-11
-17
-32""".split("\n")
+# 1
+# 5
+# 8
+# 11
+# 17
+# 32""".split("\n")
 
 
 ## Part 1
